@@ -1,0 +1,501 @@
+Experience,Education Level,Job Title,Industry,Location,Company Size,Skills,Certifications,Work Hours,Gender,Age,Performance Rating,Previous Salary,Bonuses,Salary
+6,Bachelor,Manager,IT,Los Angeles,Large,SQL,AWS,37,Female,38,3,79522,3968,14197
+19,Master,Software Engineer,Healthcare,New York,Small,SQL,PMP,52,Male,33,4,129161,910,13740
+28,Bachelor,Data Scientist,Healthcare,Los Angeles,Small,Python,None,38,Male,45,4,34886,18380,27858
+14,Master,Manager,Education,New York,Small,Python,CFA,44,Female,50,1,141249,15632,38666
+10,Bachelor,Software Engineer,IT,Los Angeles,Medium,SQL,None,44,Other,46,3,37485,16279,2639
+7,High School,Data Scientist,Education,Chicago,Small,Excel,AWS,45,Other,57,1,61455,3129,6155
+28,PhD,Manager,Education,Chicago,Large,Python,PMP,43,Male,47,1,141984,5447,46446
+20,High School,Manager,Education,San Francisco,Medium,SQL,CFA,37,Other,59,2,46767,6129,31097
+6,PhD,Software Engineer,Healthcare,Los Angeles,Large,Python,PMP,47,Male,22,2,142701,5850,24280
+25,Bachelor,Software Engineer,IT,Los Angeles,Small,Excel,AWS,39,Other,41,4,58453,7446,43428
+18,Master,Software Engineer,Education,New York,Small,Java,AWS,57,Female,49,1,106280,11949,39695
+22,High School,Data Scientist,IT,San Francisco,Small,Python,None,49,Male,37,4,132638,8519,37954
+10,PhD,Software Engineer,IT,Los Angeles,Medium,Excel,CFA,35,Male,38,3,83442,314,27634
+10,High School,Manager,Healthcare,San Francisco,Large,SQL,None,41,Female,49,1,81877,11737,9757
+23,PhD,Manager,Education,Chicago,Medium,Python,AWS,31,Male,33,1,42226,1134,35863
+20,High School,Software Engineer,Education,Los Angeles,Medium,Python,PMP,36,Other,48,3,123405,10938,27038
+3,PhD,Software Engineer,IT,Los Angeles,Small,SQL,None,45,Other,51,3,52588,15588,9468
+7,PhD,Analyst,Finance,San Francisco,Medium,Java,None,32,Male,55,4,108976,8347,28947
+23,Bachelor,Manager,Healthcare,Los Angeles,Medium,SQL,PMP,42,Other,58,4,61709,5592,45016
+2,PhD,Data Scientist,Healthcare,San Francisco,Small,Python,None,32,Male,27,3,77788,18108,29884
+21,Bachelor,Analyst,Healthcare,Los Angeles,Medium,SQL,PMP,56,Female,28,4,118031,19727,50232
+20,PhD,Software Engineer,Healthcare,New York,Small,Excel,CFA,47,Male,53,3,67019,17270,40173
+1,Master,Software Engineer,Education,San Francisco,Small,SQL,PMP,40,Female,53,1,74948,10997,-9204
+23,Master,Manager,Education,Los Angeles,Small,Python,CFA,37,Other,46,1,95133,721,48276
+11,Master,Software Engineer,Finance,Chicago,Small,SQL,PMP,35,Female,54,2,144444,9104,29179
+29,PhD,Data Scientist,Healthcare,Los Angeles,Medium,Java,AWS,30,Other,28,1,96458,19741,28341
+5,Bachelor,Manager,Healthcare,Chicago,Small,SQL,AWS,57,Male,33,3,147603,870,23289
+1,Bachelor,Software Engineer,IT,Chicago,Small,Java,CFA,30,Other,37,4,57526,6751,3627
+27,PhD,Manager,Education,New York,Medium,Excel,CFA,52,Male,37,2,103493,16881,42186
+20,Master,Software Engineer,Healthcare,San Francisco,Medium,Java,AWS,37,Male,57,4,82198,1756,19837
+0,Master,Software Engineer,Finance,Los Angeles,Large,SQL,CFA,34,Female,34,3,144100,1117,2917
+11,Bachelor,Software Engineer,Finance,New York,Medium,Python,PMP,57,Female,28,1,129534,11601,25099
+25,Master,Data Scientist,Education,Los Angeles,Medium,Java,PMP,45,Female,57,2,73395,2828,44728
+21,High School,Data Scientist,Finance,Chicago,Large,Excel,AWS,40,Female,30,3,54031,14996,35254
+28,Bachelor,Manager,Finance,San Francisco,Medium,Java,None,34,Other,53,2,105542,18031,34138
+11,Master,Software Engineer,Education,Los Angeles,Medium,Java,PMP,33,Other,32,2,67701,13878,-1148
+24,Bachelor,Software Engineer,Healthcare,Los Angeles,Medium,Java,CFA,59,Other,29,1,142599,6992,28909
+16,High School,Data Scientist,Healthcare,Chicago,Medium,Excel,None,35,Male,54,3,55939,13778,32334
+26,Bachelor,Software Engineer,Finance,Los Angeles,Large,SQL,None,43,Other,44,4,79145,6771,35832
+26,Bachelor,Data Scientist,Finance,Los Angeles,Medium,Java,PMP,51,Other,46,2,50324,16526,34774
+9,Bachelor,Software Engineer,Healthcare,Chicago,Medium,Java,PMP,48,Other,29,2,52867,19145,16143
+27,Bachelor,Manager,Education,New York,Large,Python,None,38,Female,43,4,30203,3435,36782
+27,High School,Software Engineer,Finance,Chicago,Small,Excel,None,41,Other,25,3,46544,6622,38758
+15,PhD,Software Engineer,IT,New York,Large,Java,AWS,40,Male,24,2,45899,12852,21273
+14,Bachelor,Analyst,Education,San Francisco,Small,Excel,CFA,43,Female,50,2,59063,14806,37432
+29,Bachelor,Data Scientist,Finance,New York,Large,Java,AWS,52,Male,50,2,120880,10623,15935
+29,Master,Software Engineer,Finance,New York,Large,SQL,PMP,45,Other,55,3,33748,1848,34541
+14,Bachelor,Software Engineer,IT,San Francisco,Medium,SQL,AWS,30,Female,55,3,135022,2696,16297
+29,Master,Analyst,IT,New York,Small,Java,AWS,42,Male,49,4,147269,1717,44191
+18,PhD,Analyst,Healthcare,Chicago,Medium,SQL,AWS,52,Other,34,3,96629,19456,29771
+11,High School,Data Scientist,Education,New York,Small,Java,AWS,50,Male,36,3,110764,9259,38221
+22,High School,Analyst,Education,San Francisco,Large,SQL,CFA,50,Male,44,1,50884,2786,48511
+19,PhD,Manager,Healthcare,Chicago,Large,Python,CFA,59,Male,47,4,55183,14154,24269
+24,High School,Analyst,Education,San Francisco,Small,Python,None,42,Other,25,2,111570,13409,33005
+2,PhD,Manager,Education,San Francisco,Medium,Python,PMP,31,Other,47,3,101246,3791,14963
+4,PhD,Data Scientist,Education,Los Angeles,Medium,Excel,AWS,33,Male,30,2,138036,3871,5021
+18,PhD,Data Scientist,Education,Los Angeles,Medium,Excel,None,57,Female,26,2,49259,1806,33283
+6,High School,Data Scientist,Education,San Francisco,Medium,Python,None,35,Female,53,1,65959,17888,10604
+20,Master,Data Scientist,IT,San Francisco,Large,Excel,None,55,Other,41,3,146525,19692,20323
+8,PhD,Data Scientist,Education,San Francisco,Large,SQL,CFA,56,Other,32,4,63457,13304,18204
+6,Bachelor,Manager,IT,Los Angeles,Large,Java,AWS,52,Other,36,3,115679,18074,7023
+17,High School,Manager,Education,Los Angeles,Large,Java,AWS,56,Other,53,2,32103,15549,36366
+3,PhD,Data Scientist,Healthcare,New York,Large,Java,PMP,34,Other,49,4,95901,3303,35015
+24,PhD,Analyst,Finance,New York,Medium,Python,AWS,54,Female,43,3,142314,19497,37448
+27,Bachelor,Software Engineer,IT,San Francisco,Medium,Excel,AWS,32,Other,38,2,74535,16061,37112
+13,Master,Data Scientist,Education,Chicago,Medium,SQL,None,30,Male,47,2,46103,15198,23524
+17,Master,Analyst,Healthcare,Chicago,Medium,SQL,PMP,33,Male,28,1,128046,17888,35822
+25,Master,Software Engineer,Finance,Los Angeles,Large,Python,AWS,54,Female,47,1,120012,10655,43606
+8,PhD,Data Scientist,IT,Los Angeles,Large,SQL,CFA,49,Male,46,1,108278,8924,13843
+25,PhD,Data Scientist,Finance,Los Angeles,Large,SQL,AWS,31,Female,31,2,42391,9940,36525
+20,PhD,Manager,Healthcare,San Francisco,Small,SQL,None,55,Female,40,3,132476,3924,37526
+1,High School,Software Engineer,IT,Chicago,Medium,SQL,CFA,59,Male,32,1,58901,9783,-3376
+19,Bachelor,Software Engineer,Finance,New York,Medium,Excel,None,59,Other,34,3,127537,4485,42126
+27,PhD,Analyst,Education,San Francisco,Large,SQL,AWS,34,Male,29,1,111159,12629,51348
+14,Bachelor,Manager,IT,New York,Medium,Java,CFA,32,Male,25,4,97914,13233,38650
+27,Bachelor,Manager,Finance,New York,Medium,Python,PMP,58,Female,52,4,80357,12901,27544
+6,Master,Manager,Healthcare,San Francisco,Large,Excel,PMP,57,Male,49,1,116908,191,-6700
+11,High School,Manager,Healthcare,New York,Small,SQL,CFA,58,Female,32,2,140335,4917,27087
+28,PhD,Software Engineer,IT,Chicago,Small,Excel,CFA,38,Other,22,1,68437,5831,27398
+7,Master,Software Engineer,Finance,New York,Small,SQL,None,49,Other,59,1,65503,10160,16871
+14,Master,Data Scientist,IT,Chicago,Large,Java,CFA,35,Other,45,2,126282,13682,38351
+2,PhD,Data Scientist,IT,Chicago,Medium,Python,None,47,Male,52,4,123459,12391,8430
+13,Bachelor,Manager,Finance,Chicago,Large,SQL,AWS,35,Female,47,3,105403,1874,20224
+16,Master,Manager,Finance,Los Angeles,Large,SQL,None,48,Other,26,1,71258,9062,25767
+3,Bachelor,Manager,Education,New York,Medium,SQL,CFA,57,Female,41,2,63724,4763,-975
+17,High School,Data Scientist,Finance,San Francisco,Small,SQL,CFA,41,Female,32,1,94286,10234,16421
+7,Bachelor,Analyst,Healthcare,San Francisco,Small,Python,AWS,54,Other,54,2,104842,9221,16248
+3,High School,Analyst,IT,New York,Large,Python,CFA,40,Other,59,3,134927,11410,10995
+1,Bachelor,Data Scientist,IT,Los Angeles,Small,Java,CFA,31,Female,48,3,44908,14519,18084
+29,Master,Data Scientist,Healthcare,Los Angeles,Large,Python,PMP,44,Other,55,4,122617,1051,69659
+5,Master,Data Scientist,Finance,Chicago,Large,SQL,PMP,41,Female,36,2,80626,12225,14991
+21,High School,Data Scientist,Healthcare,New York,Medium,Java,AWS,41,Female,53,2,67228,9765,21582
+9,PhD,Data Scientist,Healthcare,New York,Medium,Java,None,38,Other,42,4,53386,11382,36182
+3,High School,Data Scientist,Education,San Francisco,Medium,Java,PMP,50,Male,26,4,76754,12580,111
+21,High School,Manager,Healthcare,New York,Large,SQL,None,53,Other,27,2,140942,11989,16110
+28,Bachelor,Manager,IT,Los Angeles,Medium,Excel,CFA,31,Male,59,4,58302,11939,35048
+17,Bachelor,Manager,Healthcare,New York,Small,SQL,PMP,51,Female,43,3,90815,18489,25171
+25,High School,Manager,IT,San Francisco,Small,Python,AWS,32,Female,39,1,114748,307,25809
+11,Master,Data Scientist,IT,Chicago,Large,Python,AWS,41,Male,35,3,93344,3359,21684
+1,Bachelor,Analyst,IT,San Francisco,Large,SQL,AWS,57,Female,31,4,65618,3176,16747
+9,PhD,Software Engineer,Finance,San Francisco,Medium,SQL,PMP,59,Male,34,2,141603,1251,28689
+29,Bachelor,Data Scientist,Education,Chicago,Large,Java,None,55,Male,52,2,106234,5366,38911
+3,Bachelor,Software Engineer,IT,San Francisco,Large,SQL,CFA,45,Female,51,3,91114,17901,8380
+13,PhD,Analyst,IT,San Francisco,Small,Java,None,50,Male,24,2,147652,6226,32146
+15,High School,Manager,Finance,New York,Small,Python,None,57,Other,51,4,100130,14330,19822
+14,PhD,Analyst,IT,New York,Medium,Java,CFA,53,Other,27,3,55525,4891,8673
+7,High School,Data Scientist,Healthcare,Chicago,Large,SQL,CFA,55,Female,50,2,109818,4992,28059
+13,High School,Manager,Healthcare,New York,Large,Python,PMP,59,Female,29,1,144589,1961,31418
+22,High School,Data Scientist,Education,New York,Small,Excel,PMP,30,Male,54,1,44334,12497,21077
+27,PhD,Manager,IT,San Francisco,Large,Java,PMP,50,Male,38,4,124715,19247,36009
+24,High School,Software Engineer,Finance,Los Angeles,Small,Python,PMP,32,Male,32,2,92767,10848,23830
+29,Master,Software Engineer,Healthcare,New York,Medium,Java,PMP,49,Male,34,4,36644,13255,45266
+7,PhD,Software Engineer,Finance,Los Angeles,Small,Python,CFA,31,Other,32,3,131154,4567,35320
+20,Master,Analyst,Finance,New York,Large,Python,None,38,Other,52,1,143237,16079,34028
+15,High School,Data Scientist,Healthcare,New York,Medium,Java,PMP,48,Female,49,3,62933,6513,36357
+12,Bachelor,Analyst,Finance,Chicago,Small,Excel,PMP,44,Male,27,2,73469,15235,29197
+17,High School,Software Engineer,Healthcare,Chicago,Small,Python,None,47,Male,37,4,63687,11755,29998
+14,Master,Data Scientist,Finance,Chicago,Medium,Python,PMP,55,Female,25,4,136609,11151,37833
+20,Master,Software Engineer,Healthcare,Los Angeles,Medium,Python,None,40,Male,56,4,82656,16567,40450
+23,PhD,Analyst,IT,San Francisco,Small,Excel,None,54,Male,47,3,47375,3358,48394
+25,Bachelor,Analyst,Education,New York,Large,Excel,CFA,52,Male,33,1,144019,9590,27404
+24,PhD,Analyst,Healthcare,New York,Small,SQL,AWS,45,Male,32,3,95206,10988,17618
+27,Master,Software Engineer,Healthcare,New York,Medium,Java,CFA,51,Male,58,3,126462,7678,48452
+27,High School,Data Scientist,Education,Los Angeles,Small,Excel,AWS,46,Female,46,2,66607,5698,39497
+27,Bachelor,Data Scientist,Healthcare,Chicago,Medium,Java,AWS,34,Male,39,2,113178,1273,33039
+12,High School,Software Engineer,Healthcare,San Francisco,Medium,SQL,AWS,41,Female,40,2,53993,11241,18598
+8,High School,Data Scientist,Finance,Los Angeles,Large,Java,PMP,40,Male,44,1,74386,17480,40546
+28,Bachelor,Software Engineer,Education,Chicago,Medium,Excel,CFA,59,Other,59,1,76287,9497,28578
+14,PhD,Data Scientist,IT,Los Angeles,Medium,Java,AWS,44,Other,39,2,116724,9107,14466
+12,High School,Manager,Healthcare,San Francisco,Large,Excel,None,56,Other,47,2,128132,11273,21852
+0,Master,Manager,Education,Chicago,Medium,Java,PMP,32,Other,27,1,123308,8002,18804
+24,High School,Analyst,Finance,Los Angeles,Large,Excel,CFA,30,Female,25,4,126393,4247,59784
+6,Bachelor,Manager,IT,San Francisco,Large,Excel,AWS,49,Female,50,1,106312,9220,19573
+8,Bachelor,Manager,Education,New York,Medium,Java,None,58,Male,55,1,128371,19738,2295
+23,Bachelor,Manager,IT,San Francisco,Medium,SQL,CFA,45,Other,38,1,105324,10703,49708
+0,PhD,Software Engineer,IT,New York,Small,Python,CFA,31,Female,37,2,101196,15472,8805
+11,High School,Manager,IT,Los Angeles,Large,SQL,PMP,31,Male,23,4,100014,16654,15622
+7,PhD,Manager,Healthcare,Chicago,Small,Java,CFA,32,Male,55,1,38210,17570,3206
+23,PhD,Analyst,Healthcare,Chicago,Medium,SQL,PMP,37,Female,29,2,40922,12392,40363
+10,Bachelor,Manager,Finance,Los Angeles,Small,Excel,AWS,53,Other,34,3,66289,11956,23388
+18,Bachelor,Manager,Finance,Chicago,Large,Python,PMP,57,Male,29,3,63340,15641,32450
+16,PhD,Data Scientist,Education,Chicago,Small,Java,None,44,Other,51,1,69850,13998,35865
+7,High School,Analyst,Finance,New York,Large,Java,PMP,36,Other,53,3,86984,6305,9978
+2,Master,Analyst,IT,Los Angeles,Medium,Java,None,35,Other,57,4,133699,18782,28661
+2,PhD,Analyst,IT,San Francisco,Medium,Python,PMP,38,Male,51,3,143711,12721,7808
+0,High School,Analyst,Healthcare,New York,Large,Excel,CFA,49,Other,22,3,114178,6995,32640
+26,Bachelor,Analyst,IT,Los Angeles,Medium,Java,AWS,57,Male,38,4,41094,12427,44987
+4,Bachelor,Analyst,Education,New York,Medium,SQL,None,30,Other,41,1,117959,13782,1797
+9,High School,Software Engineer,IT,San Francisco,Medium,Java,PMP,37,Male,45,1,63418,2230,-4254
+6,Master,Manager,IT,San Francisco,Medium,Java,PMP,52,Other,43,4,35741,6511,27089
+25,Bachelor,Analyst,Education,Los Angeles,Large,Java,PMP,52,Female,50,4,141585,16512,34258
+8,Bachelor,Manager,Finance,San Francisco,Small,Java,CFA,32,Other,43,4,102374,9461,19444
+27,Bachelor,Manager,Finance,New York,Small,Excel,CFA,33,Other,30,3,147275,4765,45661
+6,High School,Software Engineer,Education,San Francisco,Medium,SQL,None,55,Male,58,4,98798,13272,29104
+8,PhD,Analyst,Healthcare,New York,Small,Excel,None,54,Male,31,2,146026,5552,29237
+7,Bachelor,Data Scientist,IT,New York,Small,SQL,CFA,44,Other,57,3,100532,627,6251
+11,PhD,Software Engineer,Education,San Francisco,Medium,Java,None,35,Female,58,1,140130,11989,32258
+1,Master,Data Scientist,IT,Los Angeles,Medium,Python,AWS,44,Female,49,1,52164,13780,2209
+0,Bachelor,Manager,Healthcare,Chicago,Small,Excel,AWS,50,Male,49,1,65595,6589,-15562
+15,Bachelor,Manager,IT,San Francisco,Large,Python,CFA,32,Female,42,3,60257,2044,14215
+22,Master,Software Engineer,Education,New York,Medium,Excel,None,54,Other,45,2,44211,13171,33180
+22,Bachelor,Software Engineer,IT,New York,Large,Java,PMP,50,Male,23,4,125989,18725,25211
+29,PhD,Data Scientist,Finance,San Francisco,Small,Excel,AWS,50,Other,29,4,35232,5884,41119
+23,High School,Analyst,Healthcare,Los Angeles,Medium,Java,CFA,43,Male,48,1,97753,8185,33382
+4,PhD,Data Scientist,Healthcare,Los Angeles,Large,Excel,None,49,Male,43,1,82691,249,9186
+2,High School,Software Engineer,Healthcare,New York,Medium,Java,CFA,43,Male,58,3,119765,19309,8056
+11,High School,Data Scientist,Education,New York,Small,Java,PMP,33,Male,48,2,109768,17358,7493
+7,PhD,Software Engineer,Healthcare,Los Angeles,Large,SQL,AWS,41,Female,50,4,55613,9175,20219
+21,PhD,Data Scientist,Finance,Chicago,Small,Java,CFA,46,Other,24,3,44026,16260,11350
+26,PhD,Software Engineer,Education,San Francisco,Small,SQL,CFA,36,Other,34,4,83535,2672,32140
+2,PhD,Software Engineer,Finance,New York,Medium,Java,CFA,38,Other,31,1,124090,7279,-277
+0,Master,Software Engineer,IT,New York,Large,Python,PMP,32,Male,57,4,60908,8662,10606
+2,Bachelor,Analyst,IT,Los Angeles,Small,Java,CFA,57,Female,30,2,82113,1987,8866
+4,High School,Data Scientist,IT,San Francisco,Small,Python,PMP,42,Other,48,2,49610,16474,22599
+14,PhD,Data Scientist,IT,Los Angeles,Large,Python,PMP,44,Female,55,1,76646,12948,36834
+13,PhD,Data Scientist,Finance,San Francisco,Small,Java,PMP,47,Male,22,2,135141,13026,10822
+2,PhD,Software Engineer,Education,San Francisco,Small,Python,AWS,48,Other,53,2,93185,2773,30928
+0,Master,Data Scientist,Education,San Francisco,Large,SQL,AWS,30,Female,46,3,102567,13159,3207
+4,PhD,Data Scientist,Healthcare,New York,Large,Excel,CFA,35,Male,50,4,77574,9878,18725
+25,PhD,Software Engineer,Finance,Chicago,Large,Java,CFA,56,Female,28,1,121051,10178,37108
+22,PhD,Manager,IT,Los Angeles,Large,Python,AWS,56,Other,24,1,132020,10377,53445
+13,Bachelor,Software Engineer,Finance,Chicago,Medium,Java,None,52,Other,41,1,66182,7347,14577
+6,Master,Data Scientist,Healthcare,Los Angeles,Large,SQL,AWS,56,Male,41,1,146136,1008,-4967
+26,PhD,Software Engineer,Healthcare,San Francisco,Medium,Java,PMP,56,Male,51,1,30570,3783,47903
+8,High School,Manager,Finance,New York,Medium,Java,AWS,31,Male,56,2,127790,4298,8666
+14,High School,Software Engineer,Finance,Chicago,Medium,Python,PMP,53,Female,56,3,49288,4668,21384
+14,High School,Data Scientist,Finance,New York,Small,SQL,CFA,43,Female,48,1,108824,2052,9822
+25,Master,Manager,Education,Los Angeles,Medium,Excel,None,35,Female,47,3,59877,1716,32412
+9,Master,Analyst,IT,New York,Medium,Excel,CFA,43,Male,35,3,114425,310,11596
+27,High School,Data Scientist,Finance,New York,Small,Python,PMP,33,Other,38,2,30917,14391,42764
+12,PhD,Manager,Finance,Chicago,Small,Java,PMP,50,Other,39,1,105602,1260,19807
+18,Master,Manager,Finance,San Francisco,Small,Python,PMP,37,Female,50,2,125040,13157,20189
+6,High School,Analyst,Healthcare,New York,Large,Python,None,59,Female,41,1,94575,11460,22958
+16,High School,Software Engineer,Healthcare,San Francisco,Small,Python,AWS,32,Other,48,2,102518,16968,27549
+19,PhD,Software Engineer,Education,Los Angeles,Small,Java,CFA,48,Other,39,3,69104,14011,11539
+28,Bachelor,Data Scientist,IT,New York,Medium,SQL,CFA,59,Female,25,1,48062,2866,44197
+3,Master,Analyst,Education,Chicago,Small,Python,AWS,43,Female,22,4,46999,14365,17848
+29,PhD,Software Engineer,IT,Los Angeles,Large,Java,CFA,56,Other,22,3,91845,5898,53907
+4,High School,Analyst,Healthcare,Los Angeles,Small,SQL,None,49,Male,47,4,39941,18395,18239
+22,High School,Software Engineer,Healthcare,Chicago,Large,Python,CFA,46,Female,41,3,91169,6251,25082
+6,PhD,Manager,Healthcare,New York,Small,Excel,PMP,54,Other,44,2,53470,4939,12957
+12,Master,Software Engineer,Education,New York,Small,SQL,AWS,37,Other,31,1,140684,4006,27039
+14,Bachelor,Analyst,Finance,Los Angeles,Small,Python,None,53,Other,32,3,89821,1625,17292
+10,Bachelor,Manager,Finance,New York,Small,SQL,AWS,43,Other,26,2,116669,10956,14597
+28,High School,Manager,Healthcare,San Francisco,Large,SQL,None,55,Male,22,1,148193,17274,32783
+3,Master,Manager,Finance,Chicago,Large,SQL,PMP,35,Other,38,1,74435,6078,-1493
+12,Bachelor,Analyst,Finance,San Francisco,Medium,SQL,AWS,52,Female,43,3,34529,8923,15436
+6,Master,Data Scientist,Education,New York,Large,SQL,CFA,51,Male,55,1,113055,3961,14725
+26,Master,Data Scientist,IT,Los Angeles,Small,SQL,None,45,Other,50,3,42192,18888,49024
+18,High School,Data Scientist,Healthcare,Chicago,Medium,Python,AWS,54,Male,25,1,104102,8806,28171
+21,Bachelor,Analyst,Healthcare,New York,Medium,Excel,CFA,48,Female,26,4,102762,18103,33541
+27,PhD,Manager,Education,New York,Medium,Java,AWS,43,Other,32,2,133466,13558,27687
+1,High School,Data Scientist,Education,Los Angeles,Small,SQL,AWS,48,Female,42,4,144894,6686,24951
+9,Bachelor,Analyst,Finance,Los Angeles,Large,Java,AWS,32,Other,56,3,116795,1587,24335
+12,Bachelor,Data Scientist,Healthcare,San Francisco,Small,Python,None,39,Other,33,4,64087,9803,17932
+29,Bachelor,Software Engineer,IT,Chicago,Medium,SQL,CFA,48,Other,47,3,96677,17280,48986
+24,Bachelor,Data Scientist,Education,Chicago,Small,Excel,PMP,38,Other,40,1,34627,10350,36595
+20,Bachelor,Data Scientist,IT,Los Angeles,Small,Java,None,57,Other,28,1,86541,18816,18864
+5,Master,Manager,IT,San Francisco,Large,SQL,None,49,Male,28,3,142805,11454,14986
+27,High School,Analyst,Healthcare,Chicago,Large,Python,None,42,Other,47,4,98226,15849,35072
+27,Master,Manager,Healthcare,Los Angeles,Medium,Excel,PMP,36,Other,26,1,135627,6837,60335
+11,PhD,Manager,Education,New York,Small,Java,CFA,43,Male,42,2,33255,1449,25317
+11,Bachelor,Manager,Healthcare,Chicago,Small,Java,CFA,38,Male,35,1,87433,5454,19867
+19,High School,Manager,Healthcare,San Francisco,Large,SQL,CFA,56,Male,25,2,35213,9424,32726
+29,Bachelor,Manager,Healthcare,San Francisco,Small,Excel,AWS,57,Male,44,4,132412,4117,55791
+29,High School,Data Scientist,IT,San Francisco,Small,Excel,AWS,52,Male,41,2,49404,8869,37166
+10,Master,Manager,Education,New York,Small,Excel,AWS,54,Male,36,2,146545,10850,13100
+25,High School,Manager,Finance,Chicago,Large,Excel,PMP,57,Other,50,2,55380,18412,42442
+22,PhD,Analyst,IT,Chicago,Medium,Python,AWS,48,Other,29,2,121056,14343,29250
+27,PhD,Software Engineer,Healthcare,New York,Medium,Excel,PMP,44,Female,40,1,49173,6845,23301
+24,High School,Data Scientist,IT,Chicago,Small,Java,CFA,49,Other,49,2,83027,4624,20353
+6,High School,Data Scientist,Healthcare,New York,Medium,Java,AWS,43,Other,48,1,53989,8848,28292
+29,High School,Data Scientist,Healthcare,New York,Large,Python,AWS,53,Male,25,2,138106,16549,39316
+0,High School,Manager,IT,New York,Large,Java,None,35,Male,36,3,54519,13136,5104
+0,PhD,Manager,Education,San Francisco,Medium,Java,PMP,50,Other,56,4,52439,589,10656
+24,Bachelor,Manager,Healthcare,Chicago,Medium,Excel,CFA,58,Female,58,2,148570,19205,41074
+26,High School,Analyst,Education,New York,Small,Java,None,33,Male,22,3,106949,6509,34065
+29,High School,Software Engineer,Finance,Chicago,Medium,Python,None,37,Other,24,2,44995,7693,23505
+24,PhD,Manager,Healthcare,San Francisco,Small,Excel,CFA,46,Other,45,2,53559,9454,36258
+19,PhD,Software Engineer,Education,New York,Small,SQL,None,59,Female,48,2,140887,16455,40083
+12,Master,Analyst,Education,Los Angeles,Large,Excel,PMP,38,Female,57,3,119049,11708,34414
+8,High School,Data Scientist,Finance,San Francisco,Large,Python,PMP,30,Male,55,4,35021,12942,15406
+2,Master,Manager,Education,Los Angeles,Large,Excel,AWS,53,Female,50,3,128000,19964,25691
+6,PhD,Software Engineer,Education,Chicago,Large,Excel,None,49,Other,45,4,51119,16652,21129
+5,PhD,Software Engineer,Finance,Chicago,Medium,Python,AWS,54,Other,45,2,81539,9968,26411
+7,Bachelor,Manager,Healthcare,San Francisco,Large,Excel,None,43,Female,25,1,124835,2462,19736
+26,High School,Data Scientist,Education,Chicago,Medium,Python,PMP,40,Female,24,2,69350,9460,19784
+8,Master,Data Scientist,Education,Los Angeles,Large,Python,PMP,50,Female,55,4,76223,1015,38467
+29,PhD,Data Scientist,Education,New York,Medium,SQL,PMP,32,Female,44,3,55517,9275,40517
+4,PhD,Analyst,IT,New York,Small,Java,None,38,Male,44,2,108653,13269,18767
+0,Master,Software Engineer,Finance,New York,Medium,Java,PMP,56,Female,26,3,52250,406,-2440
+18,Bachelor,Software Engineer,IT,San Francisco,Medium,Excel,None,43,Male,52,3,114486,7384,34053
+9,PhD,Software Engineer,Finance,Chicago,Large,Excel,AWS,59,Other,27,3,112895,11268,31029
+11,High School,Analyst,Healthcare,Los Angeles,Medium,SQL,None,38,Female,58,2,119132,17369,39353
+23,PhD,Software Engineer,Healthcare,Chicago,Small,SQL,AWS,33,Male,31,3,121066,11795,48003
+14,High School,Analyst,Education,Chicago,Small,SQL,None,56,Female,28,3,96798,4485,30542
+26,Master,Data Scientist,Finance,Chicago,Large,Python,AWS,33,Other,59,2,84199,8901,19556
+21,High School,Manager,Healthcare,New York,Small,SQL,PMP,57,Other,42,3,89546,2618,33322
+23,Master,Software Engineer,Finance,Los Angeles,Medium,SQL,AWS,37,Other,41,2,135686,9603,26074
+8,High School,Software Engineer,Healthcare,Los Angeles,Small,Excel,PMP,31,Female,24,4,118151,6928,23349
+19,Master,Data Scientist,IT,Chicago,Large,SQL,PMP,38,Female,43,4,33327,5368,19836
+16,High School,Manager,Healthcare,New York,Medium,Python,AWS,58,Male,25,4,59768,4621,26898
+29,Bachelor,Analyst,IT,New York,Large,Python,None,43,Other,49,3,94418,14719,34828
+16,High School,Manager,Healthcare,Los Angeles,Medium,Excel,None,51,Female,33,1,124386,11126,17518
+25,High School,Data Scientist,Education,New York,Small,SQL,CFA,38,Other,59,1,146947,7566,26617
+19,Bachelor,Data Scientist,IT,New York,Large,SQL,None,53,Other,57,3,72788,12306,28641
+11,PhD,Manager,Healthcare,New York,Large,Python,CFA,52,Male,26,1,145945,15086,20861
+29,PhD,Analyst,Education,San Francisco,Medium,SQL,None,45,Male,34,2,112384,17387,13015
+6,High School,Analyst,IT,Chicago,Large,SQL,None,58,Male,44,1,76830,18850,-10764
+1,Bachelor,Software Engineer,Education,Los Angeles,Medium,SQL,PMP,59,Male,51,3,82446,18323,8613
+2,High School,Analyst,Finance,Los Angeles,Medium,Java,CFA,46,Other,58,3,135078,18019,11022
+16,Master,Manager,Finance,San Francisco,Medium,Excel,None,45,Male,46,2,45160,9890,26891
+4,Master,Data Scientist,IT,Chicago,Medium,Java,CFA,59,Male,48,4,86583,8095,9723
+16,High School,Software Engineer,Healthcare,Los Angeles,Small,Excel,PMP,41,Male,35,3,63998,12719,27094
+23,PhD,Software Engineer,IT,New York,Medium,Python,PMP,32,Male,57,2,57230,10283,33265
+16,PhD,Data Scientist,Education,Los Angeles,Large,SQL,CFA,40,Other,37,1,39076,18279,15654
+26,High School,Analyst,Healthcare,New York,Small,Excel,PMP,43,Male,43,1,99341,14231,43134
+16,High School,Data Scientist,Finance,San Francisco,Large,Java,AWS,47,Other,42,2,61085,14698,26769
+1,Master,Analyst,Healthcare,New York,Small,SQL,AWS,50,Female,42,2,85571,17457,15469
+1,PhD,Data Scientist,Finance,Los Angeles,Medium,Python,PMP,50,Other,29,3,44715,5184,12688
+27,High School,Manager,Healthcare,Los Angeles,Small,Excel,AWS,34,Other,37,1,35750,2402,55036
+21,Master,Analyst,Healthcare,Los Angeles,Small,Excel,None,45,Male,52,2,143931,4895,35963
+22,PhD,Manager,Healthcare,San Francisco,Large,Excel,CFA,49,Female,31,1,108768,11404,24120
+4,Bachelor,Software Engineer,Education,San Francisco,Large,SQL,None,34,Female,53,2,148544,15161,21209
+0,Master,Data Scientist,Education,Chicago,Medium,Java,CFA,32,Female,55,1,65903,9343,-9376
+0,PhD,Software Engineer,IT,Los Angeles,Small,Java,PMP,41,Female,30,4,102489,10637,14196
+18,PhD,Software Engineer,IT,New York,Small,Excel,None,30,Other,38,3,62093,1956,32191
+29,Master,Software Engineer,Finance,San Francisco,Small,Python,PMP,50,Female,32,1,121036,7023,37310
+1,Bachelor,Software Engineer,Education,Los Angeles,Medium,Python,PMP,58,Other,53,4,117954,14062,10662
+20,Master,Data Scientist,Finance,Los Angeles,Medium,Java,CFA,38,Other,31,1,149277,14333,16877
+11,PhD,Software Engineer,IT,San Francisco,Medium,Python,CFA,58,Other,43,1,64314,3907,10106
+25,High School,Data Scientist,Finance,Chicago,Medium,Java,CFA,38,Female,38,4,78225,807,39020
+5,High School,Data Scientist,IT,San Francisco,Medium,Excel,None,33,Male,25,1,117985,14031,864
+22,Master,Manager,Education,San Francisco,Large,Java,AWS,32,Male,46,1,113014,4827,46701
+3,PhD,Analyst,Healthcare,New York,Small,Java,CFA,46,Female,42,3,65179,13699,-12408
+22,High School,Analyst,Education,New York,Small,Excel,CFA,31,Male,58,4,147305,4524,31765
+10,PhD,Data Scientist,Finance,Chicago,Small,Python,None,53,Male,59,4,142417,15193,24103
+23,Master,Manager,Finance,Los Angeles,Small,Java,CFA,30,Other,22,2,55338,16223,37074
+26,High School,Data Scientist,Education,San Francisco,Small,Java,None,37,Other,46,1,122435,18668,23840
+16,PhD,Data Scientist,Education,Chicago,Small,Excel,PMP,42,Female,57,3,99681,5313,38342
+5,High School,Data Scientist,IT,New York,Small,Python,CFA,52,Female,38,1,62101,13598,-1938
+23,Master,Manager,Finance,San Francisco,Small,Java,CFA,44,Male,45,1,32775,13058,24338
+4,PhD,Analyst,Finance,Los Angeles,Large,Excel,PMP,37,Other,23,2,141497,17141,19207
+19,High School,Manager,Education,New York,Small,Java,PMP,41,Female,36,1,127183,4887,36401
+1,Master,Software Engineer,Healthcare,New York,Large,SQL,PMP,51,Female,53,3,75619,3854,-2040
+5,High School,Manager,Finance,New York,Medium,Excel,CFA,41,Female,27,3,75838,12458,42450
+21,High School,Manager,Healthcare,Chicago,Small,Python,AWS,43,Female,22,2,49539,14536,21025
+10,Bachelor,Manager,Education,Los Angeles,Medium,Python,AWS,44,Female,44,1,132274,3558,3878
+15,Bachelor,Manager,Education,San Francisco,Medium,Python,AWS,44,Female,38,3,87124,9772,31027
+15,Master,Analyst,IT,Chicago,Medium,Python,CFA,38,Male,55,1,95149,17345,18517
+0,Bachelor,Software Engineer,Finance,Chicago,Large,Java,PMP,48,Other,50,1,56616,3575,2039
+8,Master,Analyst,Healthcare,Chicago,Medium,Java,CFA,55,Other,30,1,109655,2418,20956
+27,Bachelor,Analyst,IT,New York,Medium,Python,PMP,49,Female,34,2,120695,4198,20727
+26,High School,Manager,Finance,Los Angeles,Medium,Python,CFA,58,Other,27,1,84567,1001,15978
+5,Master,Data Scientist,IT,Chicago,Small,Python,CFA,51,Other,27,3,67099,7119,10025
+15,Master,Data Scientist,Education,San Francisco,Small,Java,PMP,37,Other,41,1,105831,19229,32779
+28,High School,Analyst,Finance,Los Angeles,Large,Python,AWS,50,Female,24,3,130246,9673,33459
+2,Master,Analyst,IT,San Francisco,Large,Python,PMP,48,Female,38,1,91799,5316,24991
+19,Master,Manager,IT,Los Angeles,Small,SQL,None,35,Other,33,3,120221,16244,42010
+27,Bachelor,Analyst,Healthcare,San Francisco,Large,SQL,None,49,Other,22,3,144879,16806,40829
+26,Master,Manager,IT,New York,Small,Python,PMP,54,Female,38,1,55479,11873,36397
+3,PhD,Data Scientist,Finance,Chicago,Medium,Excel,CFA,58,Male,24,1,76172,4266,12820
+18,High School,Data Scientist,Finance,San Francisco,Medium,Python,None,48,Other,47,3,129165,7549,30597
+25,Bachelor,Software Engineer,Healthcare,Los Angeles,Large,SQL,None,33,Male,36,4,85863,19094,34337
+2,Bachelor,Data Scientist,Finance,Chicago,Small,Excel,CFA,52,Other,57,2,72043,10589,8498
+18,PhD,Analyst,Education,Chicago,Small,Excel,CFA,36,Male,53,4,112569,1657,20300
+19,High School,Data Scientist,Finance,Los Angeles,Large,Python,AWS,57,Male,53,4,132438,18925,9899
+6,High School,Manager,Finance,San Francisco,Small,SQL,CFA,57,Male,25,1,140107,6763,24040
+19,Bachelor,Data Scientist,IT,New York,Medium,SQL,PMP,33,Female,39,2,45408,19459,29572
+8,Master,Software Engineer,IT,New York,Large,Excel,PMP,51,Male,40,4,87980,3164,21062
+0,Bachelor,Data Scientist,Finance,San Francisco,Large,Python,AWS,41,Male,56,1,112956,18437,10984
+7,High School,Manager,Healthcare,Chicago,Small,Java,None,42,Male,35,4,46351,8479,11716
+6,PhD,Manager,IT,Chicago,Large,Java,None,32,Other,54,4,34131,5737,8989
+17,Bachelor,Analyst,Healthcare,Chicago,Small,SQL,CFA,51,Male,35,1,146836,19601,21163
+7,High School,Data Scientist,Finance,Chicago,Small,Java,PMP,41,Other,55,1,74825,17831,27680
+0,Bachelor,Manager,Finance,San Francisco,Small,SQL,None,31,Male,25,1,41349,6009,-4687
+10,Master,Software Engineer,Education,Chicago,Small,SQL,AWS,53,Male,45,2,90931,16991,-7270
+27,Bachelor,Analyst,IT,Los Angeles,Small,SQL,AWS,31,Female,50,4,74254,4552,34785
+24,Bachelor,Software Engineer,Finance,Chicago,Large,Java,PMP,56,Other,40,1,68225,18148,42426
+24,High School,Data Scientist,Education,New York,Medium,SQL,AWS,52,Male,27,3,134383,9417,17674
+17,High School,Data Scientist,IT,Chicago,Medium,Excel,AWS,38,Other,54,4,42453,9221,18197
+22,High School,Data Scientist,Finance,San Francisco,Large,Python,PMP,30,Other,40,3,48814,2671,35635
+29,Bachelor,Analyst,Finance,New York,Large,Python,CFA,37,Female,22,2,48263,6519,63699
+9,Master,Manager,IT,San Francisco,Medium,SQL,CFA,52,Female,26,1,107694,3962,2417
+2,PhD,Analyst,IT,San Francisco,Medium,Python,AWS,35,Female,48,3,45735,12734,-969
+6,PhD,Software Engineer,IT,New York,Medium,Java,CFA,35,Female,37,2,45830,13122,18386
+27,High School,Analyst,Finance,San Francisco,Medium,Java,CFA,51,Female,27,1,77893,19561,46046
+15,High School,Software Engineer,Finance,San Francisco,Medium,Python,AWS,54,Female,34,3,74673,3722,19759
+25,Bachelor,Analyst,Education,Chicago,Small,Java,CFA,47,Female,56,3,119462,4906,19786
+15,PhD,Manager,Healthcare,Los Angeles,Large,Python,AWS,46,Female,40,2,75066,7263,28337
+24,High School,Software Engineer,IT,San Francisco,Small,Python,None,58,Male,33,1,130315,13699,37148
+19,Master,Data Scientist,Finance,San Francisco,Medium,Python,PMP,41,Other,37,1,33373,11088,43786
+27,Master,Data Scientist,Finance,San Francisco,Medium,SQL,PMP,35,Female,31,3,40335,808,44569
+16,High School,Analyst,IT,Chicago,Medium,Python,CFA,55,Female,46,3,53741,9170,35280
+1,High School,Data Scientist,Healthcare,Los Angeles,Small,SQL,CFA,56,Other,41,3,40692,16260,9378
+0,PhD,Software Engineer,IT,New York,Small,Python,CFA,37,Male,52,1,77295,17109,31415
+15,PhD,Data Scientist,Healthcare,Chicago,Medium,Python,PMP,48,Other,25,2,75541,10693,20018
+29,Bachelor,Manager,Finance,Chicago,Small,Python,None,57,Other,44,2,64057,7701,31880
+11,PhD,Manager,Healthcare,Los Angeles,Small,Java,None,39,Female,23,1,96983,17600,36095
+4,Master,Analyst,Education,Los Angeles,Medium,SQL,PMP,30,Other,43,4,49583,18581,2257
+4,Master,Software Engineer,Finance,Chicago,Small,SQL,None,54,Other,58,2,52765,14191,-5474
+26,High School,Manager,Education,New York,Large,Python,PMP,58,Female,29,3,89287,19190,38195
+22,PhD,Manager,IT,Chicago,Large,Python,None,42,Female,28,4,53906,17356,34982
+8,Bachelor,Software Engineer,IT,Los Angeles,Large,Java,AWS,46,Female,35,4,115103,13704,18721
+8,Master,Data Scientist,IT,New York,Large,Java,AWS,32,Female,24,2,109675,2123,26939
+2,Master,Data Scientist,Healthcare,Los Angeles,Medium,Java,PMP,37,Other,37,4,76525,11533,5917
+18,Bachelor,Analyst,Finance,New York,Medium,SQL,None,43,Other,40,4,68230,16608,31641
+15,Bachelor,Data Scientist,IT,San Francisco,Medium,SQL,CFA,32,Male,39,2,147904,14448,20398
+15,Master,Software Engineer,IT,Los Angeles,Large,SQL,None,45,Male,37,2,49520,14586,15087
+2,Master,Manager,Finance,Los Angeles,Large,Python,AWS,42,Other,29,4,115238,1814,14381
+19,Bachelor,Data Scientist,IT,Chicago,Small,SQL,AWS,49,Male,54,3,81934,13001,38525
+23,Master,Analyst,Education,Los Angeles,Small,Excel,None,53,Other,33,1,55566,17490,51205
+21,High School,Data Scientist,Finance,Los Angeles,Large,Excel,None,46,Male,32,4,103193,16508,39794
+23,High School,Software Engineer,Finance,San Francisco,Large,Java,CFA,42,Female,26,4,133224,19630,10891
+0,Bachelor,Analyst,Finance,Los Angeles,Large,SQL,CFA,58,Male,48,3,60134,13380,10618
+23,PhD,Data Scientist,Education,San Francisco,Large,Excel,None,35,Female,33,4,40345,15406,36498
+19,Bachelor,Analyst,Finance,San Francisco,Small,Java,None,46,Female,38,4,71185,2931,41362
+10,Bachelor,Software Engineer,Education,San Francisco,Large,SQL,None,43,Female,27,1,145464,13567,18848
+16,PhD,Manager,Finance,San Francisco,Small,Python,None,46,Female,54,1,122949,14038,35530
+7,PhD,Software Engineer,Healthcare,New York,Large,Excel,PMP,59,Male,26,1,100744,12317,17916
+3,PhD,Software Engineer,IT,Chicago,Large,Python,None,37,Other,49,2,63455,2971,27587
+5,High School,Software Engineer,Healthcare,New York,Large,SQL,CFA,40,Female,35,2,145217,2017,9612
+7,Master,Software Engineer,IT,Los Angeles,Small,Excel,AWS,49,Male,26,1,58018,2415,15443
+19,High School,Manager,Education,New York,Small,SQL,PMP,57,Female,54,1,84219,19480,34266
+29,Master,Manager,Healthcare,New York,Medium,Python,None,30,Male,40,2,75991,1609,32278
+2,High School,Analyst,Finance,Los Angeles,Large,Excel,AWS,55,Male,43,3,103616,717,5099
+15,Master,Data Scientist,IT,Los Angeles,Medium,Python,PMP,36,Male,26,4,117438,19945,21706
+29,High School,Manager,IT,Los Angeles,Medium,SQL,AWS,50,Other,23,4,146841,12662,34507
+24,PhD,Manager,Healthcare,New York,Small,SQL,None,50,Male,51,1,39486,6782,36225
+2,Bachelor,Data Scientist,Education,New York,Small,Python,None,46,Male,25,3,68862,1048,-5348
+24,High School,Manager,Healthcare,Los Angeles,Medium,Excel,CFA,59,Other,54,2,88870,11618,17440
+28,Master,Software Engineer,Education,Chicago,Large,Python,None,39,Other,34,1,116694,8307,53627
+17,PhD,Software Engineer,Education,Chicago,Small,SQL,None,40,Male,41,3,135996,7905,20749
+13,High School,Data Scientist,IT,San Francisco,Large,Python,PMP,51,Other,28,3,73856,9993,26000
+17,High School,Analyst,Healthcare,Los Angeles,Large,SQL,CFA,59,Female,36,3,131407,10338,13108
+1,PhD,Analyst,Healthcare,San Francisco,Medium,Python,PMP,38,Female,44,2,130744,5578,10941
+21,High School,Data Scientist,Education,Chicago,Medium,Excel,AWS,38,Other,35,2,116055,13834,22809
+2,Bachelor,Data Scientist,Healthcare,San Francisco,Medium,Excel,None,53,Other,44,4,61379,18004,-630
+15,High School,Software Engineer,Finance,Los Angeles,Medium,Python,AWS,34,Male,40,4,94729,6548,41369
+28,Bachelor,Analyst,Finance,Los Angeles,Small,Python,PMP,46,Other,50,3,58378,7381,50825
+8,Bachelor,Manager,Healthcare,Los Angeles,Small,Excel,None,38,Male,41,3,135428,2941,17926
+3,PhD,Software Engineer,Healthcare,New York,Medium,SQL,None,46,Female,50,2,84353,5695,21994
+0,High School,Data Scientist,Education,San Francisco,Small,Excel,PMP,53,Other,45,4,79996,6401,32032
+3,PhD,Analyst,Finance,Chicago,Medium,SQL,PMP,50,Male,39,3,44031,15179,21540
+0,High School,Manager,Finance,Chicago,Large,Python,PMP,48,Male,31,4,110072,14456,17796
+13,High School,Manager,IT,Chicago,Large,Python,PMP,56,Female,29,4,95982,13097,27989
+20,Master,Software Engineer,Education,New York,Large,SQL,PMP,36,Other,47,3,66683,6197,37494
+15,High School,Analyst,IT,New York,Medium,Python,None,52,Female,50,2,144091,5450,20360
+19,PhD,Analyst,Finance,Los Angeles,Large,SQL,PMP,38,Male,31,3,147797,17937,27233
+23,Bachelor,Data Scientist,Education,Chicago,Small,Java,None,36,Male,38,3,47618,17396,38508
+7,High School,Analyst,Healthcare,New York,Large,Excel,None,42,Other,23,4,36587,8378,15261
+6,Master,Analyst,Education,Los Angeles,Large,Java,PMP,40,Male,27,3,92790,1881,13342
+2,PhD,Software Engineer,Healthcare,Chicago,Large,SQL,PMP,43,Other,26,2,61480,6799,11001
+16,High School,Analyst,Healthcare,San Francisco,Small,Excel,CFA,48,Female,49,3,128530,14597,38506
+0,PhD,Manager,Education,Los Angeles,Medium,SQL,None,40,Other,26,2,50527,13675,-2326
+15,Master,Software Engineer,Healthcare,New York,Small,Excel,PMP,42,Other,39,2,53569,4586,31591
+11,Master,Software Engineer,IT,New York,Medium,Excel,PMP,43,Male,47,4,41151,8430,31917
+26,PhD,Data Scientist,Finance,Los Angeles,Medium,Excel,PMP,42,Male,41,1,101094,2345,40858
+18,High School,Analyst,Healthcare,Los Angeles,Large,Excel,CFA,30,Other,48,1,89174,16459,16932
+21,Bachelor,Data Scientist,IT,New York,Medium,SQL,CFA,37,Male,33,4,74739,9548,17073
+22,Master,Manager,Healthcare,San Francisco,Small,Excel,AWS,41,Male,28,3,62954,5877,38597
+21,High School,Software Engineer,Finance,Chicago,Small,Excel,None,48,Male,24,4,142984,6785,35875
+13,High School,Software Engineer,IT,San Francisco,Medium,Java,AWS,41,Other,31,2,142863,15833,32043
+29,Bachelor,Software Engineer,Finance,Los Angeles,Large,Python,PMP,37,Male,55,1,139373,4922,28994
+5,Master,Manager,Finance,San Francisco,Large,Python,CFA,37,Other,46,4,65303,18714,25601
+5,Master,Manager,IT,New York,Small,Java,CFA,58,Male,56,3,64700,4686,26544
+12,High School,Data Scientist,IT,Los Angeles,Large,Java,AWS,50,Female,37,4,123036,14407,24046
+18,High School,Data Scientist,IT,Chicago,Medium,SQL,CFA,42,Male,23,1,97568,18286,29169
+21,Bachelor,Data Scientist,Education,New York,Medium,SQL,PMP,41,Male,45,4,96788,12205,37819
+7,Bachelor,Analyst,IT,New York,Small,SQL,CFA,58,Other,31,4,101045,13179,11785
+26,Master,Software Engineer,IT,Chicago,Medium,Java,AWS,45,Other,59,1,67842,18443,38310
+26,PhD,Software Engineer,IT,Chicago,Small,Java,PMP,30,Male,43,2,43900,16524,51224
+1,Master,Data Scientist,IT,San Francisco,Medium,Excel,AWS,42,Female,47,2,110059,18173,10222
+20,High School,Software Engineer,Healthcare,Los Angeles,Small,SQL,CFA,55,Male,48,1,31881,16,12390
+29,Master,Data Scientist,Education,Chicago,Large,SQL,AWS,36,Male,50,4,63037,13374,35127
+0,PhD,Analyst,Finance,Chicago,Medium,SQL,AWS,57,Female,59,1,31630,16848,-10794
+27,Bachelor,Analyst,IT,Los Angeles,Medium,Python,None,55,Other,41,2,50789,18211,48902
+14,PhD,Manager,Healthcare,Chicago,Small,Excel,CFA,34,Male,48,3,118059,5956,32641
+0,PhD,Analyst,Healthcare,Chicago,Small,SQL,CFA,37,Other,41,4,113494,16473,7986
+4,PhD,Data Scientist,Healthcare,San Francisco,Medium,SQL,AWS,54,Other,40,2,76151,4815,-1180
+27,Bachelor,Analyst,Finance,New York,Small,SQL,None,56,Female,41,4,78920,19235,31667
+28,PhD,Manager,IT,New York,Medium,Python,CFA,43,Female,56,1,139388,2843,28617
+15,PhD,Software Engineer,Education,New York,Large,Python,PMP,52,Other,23,3,97231,15972,27094
+18,PhD,Data Scientist,Education,New York,Small,Java,AWS,59,Male,51,1,147946,17353,25757
+3,High School,Software Engineer,Healthcare,Chicago,Medium,Excel,CFA,42,Other,55,3,110357,1094,27414
+2,PhD,Manager,Finance,Los Angeles,Large,Java,PMP,44,Male,43,4,33262,6124,8072
+16,Bachelor,Manager,Finance,Los Angeles,Large,Excel,CFA,52,Male,24,4,96981,19579,13918
+16,PhD,Manager,Finance,San Francisco,Medium,Python,PMP,46,Female,27,1,111972,1404,11430
+11,PhD,Software Engineer,Education,San Francisco,Small,SQL,AWS,44,Male,36,3,105485,3982,21769
+27,Bachelor,Software Engineer,Healthcare,Chicago,Medium,Java,CFA,49,Male,48,3,84722,12515,30713
+29,PhD,Software Engineer,IT,Los Angeles,Large,SQL,CFA,47,Other,31,4,119499,15790,39079
+28,Bachelor,Software Engineer,Education,Los Angeles,Medium,Java,None,47,Female,30,1,80818,12205,30459
+13,PhD,Manager,Healthcare,New York,Small,Python,AWS,31,Male,54,3,59932,12748,33902
+20,Bachelor,Manager,Healthcare,Chicago,Large,Python,PMP,33,Male,53,4,36901,3092,27130
+5,PhD,Data Scientist,IT,Chicago,Medium,Python,CFA,59,Female,27,2,147473,13971,10226
+2,PhD,Data Scientist,IT,New York,Small,Java,CFA,30,Other,57,1,129023,14616,16172
+27,High School,Software Engineer,IT,Chicago,Large,Excel,PMP,33,Female,23,2,38597,4933,30350
+8,High School,Analyst,Finance,Chicago,Small,Java,AWS,47,Female,50,1,93909,4926,19232
+4,PhD,Analyst,IT,San Francisco,Large,Excel,None,34,Male,25,4,102391,3969,20314
+23,PhD,Manager,Healthcare,Los Angeles,Medium,Java,None,48,Male,22,3,114214,2965,35417
+28,Master,Manager,IT,Chicago,Small,Java,CFA,44,Other,40,3,38263,4319,27656
+16,Bachelor,Manager,Healthcare,San Francisco,Large,Python,PMP,57,Male,47,3,93293,8975,39297
+13,Master,Data Scientist,Education,Los Angeles,Small,SQL,CFA,37,Male,46,1,142824,7108,42206
+20,High School,Data Scientist,Finance,New York,Small,SQL,PMP,49,Female,31,4,55805,9141,33088
+2,High School,Manager,Education,San Francisco,Medium,Excel,None,46,Male,36,2,121679,16428,536
+27,High School,Manager,Education,San Francisco,Small,SQL,AWS,30,Other,43,4,41874,1810,40291
+0,High School,Manager,Healthcare,Los Angeles,Large,Java,PMP,41,Female,42,2,123065,10273,18898
+19,PhD,Analyst,Education,New York,Large,Java,None,55,Other,43,1,116402,9021,19848
+28,High School,Data Scientist,Healthcare,San Francisco,Large,Python,CFA,48,Female,57,1,44079,18293,33711
+20,PhD,Analyst,IT,Chicago,Large,Python,PMP,44,Male,55,2,79850,6364,32406
+22,PhD,Analyst,IT,Chicago,Medium,SQL,AWS,38,Female,51,2,102779,2581,43030
+0,High School,Manager,Healthcare,Chicago,Small,Excel,CFA,36,Female,46,2,125408,691,16754
+2,High School,Manager,IT,New York,Medium,SQL,CFA,31,Male,49,4,39018,931,23168
+17,Bachelor,Software Engineer,Finance,San Francisco,Small,SQL,None,58,Male,22,2,79500,13128,21737
+24,Master,Software Engineer,Education,Chicago,Small,SQL,PMP,38,Other,25,1,42100,14226,35019
+9,High School,Analyst,Finance,New York,Small,SQL,CFA,39,Other,28,1,87021,13861,8780
+21,Bachelor,Data Scientist,Education,Chicago,Medium,Java,AWS,31,Male,30,3,144995,15475,40455
+25,Bachelor,Manager,IT,Los Angeles,Small,Excel,PMP,48,Male,57,2,49800,3406,45512
+2,Master,Manager,Finance,San Francisco,Medium,Java,AWS,40,Male,40,4,93400,8339,20533
+7,PhD,Analyst,IT,San Francisco,Large,Excel,CFA,42,Female,22,4,122446,17416,16325
+13,High School,Software Engineer,Education,New York,Large,Python,AWS,39,Female,31,4,59437,17695,23962
+23,Master,Data Scientist,Healthcare,New York,Small,SQL,None,43,Female,57,3,133124,8579,52065
+17,High School,Software Engineer,Healthcare,San Francisco,Medium,Java,AWS,47,Male,30,1,106537,3121,20492
+14,Bachelor,Software Engineer,Finance,Chicago,Large,Excel,PMP,48,Other,53,4,76675,18257,37499
+21,Bachelor,Software Engineer,IT,Chicago,Medium,Python,AWS,51,Male,53,1,49942,15946,31388
+22,PhD,Software Engineer,IT,Los Angeles,Medium,Python,AWS,38,Female,27,3,50862,3748,29658
+1,Bachelor,Manager,Finance,Chicago,Small,SQL,None,54,Female,59,2,41669,277,-3446
+26,Bachelor,Manager,Healthcare,New York,Large,Excel,AWS,36,Male,38,2,83772,18243,37116
+9,Master,Software Engineer,Education,New York,Small,Java,AWS,57,Male,31,2,45916,11563,18911
+1,High School,Data Scientist,Finance,Chicago,Small,SQL,CFA,32,Female,48,4,40878,6792,32065
+25,High School,Analyst,Education,New York,Large,Java,CFA,49,Female,56,2,32985,13918,25398
+16,Master,Data Scientist,Healthcare,San Francisco,Large,Python,PMP,35,Female,42,4,127905,10374,51947
+7,PhD,Data Scientist,IT,San Francisco,Medium,Java,CFA,56,Male,46,3,103648,4675,21788
+0,High School,Data Scientist,Healthcare,Chicago,Large,Java,CFA,50,Female,49,3,71235,1170,14778
+8,Bachelor,Software Engineer,Finance,San Francisco,Medium,SQL,CFA,31,Female,36,4,48931,8681,15069
+10,High School,Manager,IT,San Francisco,Medium,Java,CFA,58,Other,25,1,122876,10717,20147
+21,Bachelor,Data Scientist,Finance,Los Angeles,Medium,SQL,None,35,Male,50,2,30336,12450,34730
+15,PhD,Software Engineer,Finance,Los Angeles,Large,Python,CFA,32,Other,30,2,72933,10680,33373
+6,Master,Data Scientist,Healthcare,San Francisco,Small,SQL,None,45,Other,48,2,114899,10068,5216
+28,High School,Data Scientist,Finance,Chicago,Medium,SQL,None,59,Female,47,4,75536,2462,55067
